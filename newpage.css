@@ -1,0 +1,7 @@
+*{
+    background: rgba(255, 250, 250, 0.7) url('bg.jpg') center center fixed;
+    background-size: cover;
+    background-blend-mode: darken;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
